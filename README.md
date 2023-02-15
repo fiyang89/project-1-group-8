@@ -37,6 +37,7 @@ Q: Why is GDP per capita important when measuring a country’s growth and econo
 
 ### Comparing Carbon Dioxide Emissions (Density Locations and Over Time)
 Q: Does increasing population increase CO2 releases? Comparing CO2 releases per person, would emissions be the same everywhere?
+
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/120594187/219177985-d8e4741a-9f0e-420e-90bf-72a963793adf.png">
 
 
