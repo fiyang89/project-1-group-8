@@ -5,6 +5,9 @@
 asfjlajdlfladjflajksdf;
 
 ### Analysis/Conclusion
+Environmental analysis:
+- adfasdfasfdfasdf
+
 Health analysis: 
 - In terms of outdoor air pollution, cardiovascular disease, and cancer, there is a strong positive correlation between outdoor air pollution and cancer death rates with an r-value=0.97 as well as outdoor air pollution and cardiovascular disease death rates with an r-value=0.95.
 - China is the largest densely populated country and 2nd leading country in death rates for outdoor air pollution, cardiovascular disease, and cancer.
