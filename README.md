@@ -6,7 +6,10 @@ asfjlajdlfladjflajksdf;
 
 ### Analysis/Conclusion
 Environmental analysis:
-- adfasdfasfdfasdf
+- One can assume that the most populated countries are the worst polluters, but when looking at a country’s cement carbon footprint, Israel is in second place (China is first and Japan is third). 
+- Since we plotted over the span of nine years, we can see trends in the lines and can try predicting the future. 
+- 2010-2018 Israel’s cement carbon footprint has been decreasing and by seeing that we can predict that it will continue to decrease (and go below Japan).
+
 
 Health analysis: 
 - In terms of outdoor air pollution, cardiovascular disease, and cancer, there is a strong positive correlation between outdoor air pollution and cancer death rates with an r-value=0.97 as well as outdoor air pollution and cardiovascular disease death rates with an r-value=0.95.
