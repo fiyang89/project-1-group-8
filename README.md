@@ -6,11 +6,13 @@ asfjlajdlfladjflajksdf;
 
 ### Analysis/Conclusion
 Health analysis: 
-- China is the largest densely populated country and 2nd leading country in death rates for outdoor air pollution, cardiovascular disease, and cancer
-- Likely correlated to population
-- South Africa exception
-- Differences likely due to healthcare costs and availability, nutrition/malnutrition, and economic status
-- Strong positive correlation between outdoor air pollution and cancer death rates as well as outdoor air pollution and cardiovascular disease death rates.
+- In terms of outdoor air pollution, cardiovascular disease, and cancer, there is a strong positive correlation between outdoor air pollution and cancer death rates with an r-value=0.97 as well as outdoor air pollution and cardiovascular disease death rates with an r-value=0.95.
+- China is the largest densely populated country and 2nd leading country in death rates for outdoor air pollution, cardiovascular disease, and cancer.
+- There is likely a correlation between population and environmental impact with the exception of South Africa.
+- The differences are likely due to healthcare costs and availability, nutrition/malnutrition, and economic status.
+- Also, infant mortality rates are typically a very good indicator of overall health for a society and the data shows that Japan, Israel, Germany, and Australia have overall better health compared to the other countries.
+- China, India, South Africa, and Brazil are countries with the highest infant mortality rates from 2010-2018.
+
 
 ### Gross Domestic Product (GDP) 
 Q: Why is GDP important when measuring a country’s growth and economy?
