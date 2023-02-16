@@ -2,7 +2,7 @@
 ## Project 1 Group 8
 
 ### Overview
-Reviewing Population and the impacts on economic and health outcomes.
+Reviewing population and its impacts on economic and health outcomes.
 
 ### Analysis/Conclusion
 Environmental analysis:
