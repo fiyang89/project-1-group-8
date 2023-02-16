@@ -5,6 +5,10 @@
 Reviewing population and its impacts on economic and health outcomes.
 
 
+### Summary Analysis
+Reference the Summary Analysis for Population word document.
+
+
 ### Gross Domestic Product (GDP) 
 Q: Why is GDP important when measuring a country’s growth and economy?
 - United States (US) leading the trend for the past 8 years
