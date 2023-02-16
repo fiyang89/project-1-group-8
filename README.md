@@ -6,12 +6,15 @@ Reviewing Population and the impacts on economic and health outcomes.
 
 ### Analysis/Conclusion
 Environmental analysis:
+- CO2 emissions have not changed significantly over time, except for China.
 - One can assume that the most populated countries are the worst polluters, but when looking at a country’s cement carbon footprint, Israel is in second place (China is first and Japan is third). 
 - Since we plotted over the span of nine years, we can see trends in the lines and can try predicting the future. 
 - 2010-2018 Israel’s cement carbon footprint has been decreasing and by seeing that we can predict that it will continue to decrease (and go below Japan).
 
 
 Health analysis: 
+- For the life expectancy rates, the top three countries are Australia, Israel, and Japan. The bottom three countries are India, Russia, and South Africa.
+- China and India have below average life expectancy and have the two highest for annual, we can conclude that there is an inversely proportionate correlation between populatino and health outcomes which is understandable given the population density.
 - In terms of outdoor air pollution, cardiovascular disease, and cancer, there is a strong positive correlation between outdoor air pollution and cancer death rates with an r-value=0.97 as well as outdoor air pollution and cardiovascular disease death rates with an r-value=0.95.
 - China is the largest densely populated country and 2nd leading country in death rates for outdoor air pollution, cardiovascular disease, and cancer.
 - There is likely a correlation between population and environmental impact with the exception of South Africa.
